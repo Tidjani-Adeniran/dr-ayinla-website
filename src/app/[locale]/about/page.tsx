@@ -36,7 +36,7 @@ export default function AboutPage() {
           <FadeIn delay={0.2} direction="right" className="w-full">
             <div className="relative w-full aspect-[3/4] max-w-md mx-auto rounded-2xl overflow-hidden shadow-2xl border-4 border-white group">
               <Image
-                src="/dr-ayinla.JPG"
+                src="/dr-ayinla.jpg"
                 alt="Docteur Freud (Dr. Ayinla)"
                 fill
                 className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
