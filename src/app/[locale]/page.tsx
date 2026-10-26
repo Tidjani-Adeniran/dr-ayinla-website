@@ -71,7 +71,7 @@ export default function HomePage() {
           <FadeIn delay={0.3} direction="left" className="w-full">
             <div className="relative w-full max-w-md aspect-[4/5] mx-auto rounded-2xl overflow-hidden shadow-2xl border-4 border-white group">
               <Image
-                src="/dr-ayinla.jpg"
+                src="/dr-ayinla.JPG"
                 alt="Dr. Ayinla (Dr. Freud)"
                 fill
                 className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
