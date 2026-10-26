@@ -1,13 +1,13 @@
 {
   "Navbar": {
     "home": "Accueil",
-    "about": "À propos",
+    "about": "À Propos",
     "codeNoir": "Code Noir",
     "publications": "Publications",
-    "media": "Médias & Conférences",
+    "media": "Médias",
     "appointments": "Rendez-vous",
     "contact": "Contact",
-    "bookBtn": "Prendre Rendez-vous"
+    "bookBtn": "Réserver"
   },
   "HomePage": {
     "badge": "Consultant en Intelligence Relationnelle & Fondateur de Code Noir",
